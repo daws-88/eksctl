@@ -7,7 +7,6 @@ metadata:
   
 managedNodeGroups:
   - name: roboshop-dev
-    instanceTypes:
     nstanceTypes:
       - c3.large
       - t3.micro
